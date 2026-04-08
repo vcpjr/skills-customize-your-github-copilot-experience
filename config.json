@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "APIs REST com FastAPI",
+      "description": "Criar uma API REST completa usando o framework FastAPI.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-04-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
